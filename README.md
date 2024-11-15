@@ -10,18 +10,20 @@ You should produce an interactive, Web-based visualization that could be publish
 If you are currently working on research and would like to have a visualization project that fits with your research, please contact me so we can design a good project.
 
 Steps
-Dataset Selection, October 25, 2024
-Proposal, October 30, 2024
-Designs, November 15, 2024
-Presentation, 2024-12-02 and 2024-12-04
-Report, TBA
+0. Dataset Selection, October 25, 2024
+1. Proposal, October 30, 2024
+2. Designs, November 15, 2024
+3. Presentation, 2024-12-02 and 2024-12-04
+4. Report, TBA
+
+
 Dataset
 Here are a few dataset ideas:
+-US Food Safety Data
+-Illinois Hospital Report Card (API, GitHub)
+-National Football League Datasets (older years also available)
+-US Register of Introduced and Invasive Species
 
-US Food Safety Data
-Illinois Hospital Report Card (API, GitHub)
-National Football League Datasets (older years also available)
-US Register of Introduced and Invasive Species
 If you have a particular interest in another dataset, please talk with me about it.
 
 Note that you do not need to use all of the data. If you need any help extracting or transforming the part of the dataset you wish to use, please contact me. While it’s great to put data manipulation skills to use, the focus of the project is on the visualizations.
@@ -30,9 +32,14 @@ Proposal
 Submit, via Blackboard, a proposal that includes
 
 The name and URL of the dataset(s) you will be working with and a description of the types and semantics of your dataset. This means defining the attributes and what the attribute types (categorical, ordered, quantitative) are. This should include necessary background information about the domain being studied. Explain any ideas and terms being examined.
+
 A detailed list of the tasks you envision in your project. For example, if you are examining a dataset of taxi data, you might ask “Are there any trends between the day of the week and number of rides?” or “Which locations see the highest density of ridership?”. These should be questions that cannot be answered via a simple statistical calculation; examples of bad questions include “What day had the maximum number of rides?” or “How many days are in the dataset?”. That is not to say that these questions are not important but rather that a visualization is not required to answer them.
+
 A sketch that shows some initial ideas about how your visualization and its interactions work. I recommend drawing by hand and scanning (or use a camera phone), but you may also use a computer drawing program.
+
 A collection of ideas and requirements for your visualization and its interactions. Many projects will have multiple views and/or customized techniques. If you use multiple views, focus on how the views are linked together (e.g. linked highlighting). In addition, consider what interactive elements you would like to have (e.g. zooming, dropdown menus, transitions from one data subset to another).
+
+
 Designs
 Submit, via Blackboard, your current sketches and code for the project and include at least three different design iterations for your visualization: two good designs and one bad design. If you have updated any of the details based on feedback on the proposal, please indicate the updates and include them as well. At least one of the designs should be prototyped, and the others should either be prototypes or detailed sketches (as with Five Sheets Design). For prototypes, it will be easier if you use version control and create versions often. Consider using GitHub and tagging iterations of the design or creating branches for different ideas. Your submission must include a table of contents that clearly identifies at least three designs you have produced. You may put all the different iterations on one web page with a table of contents section at the beginning (preferred) or on separate web pages with a separate table of contents page. Any sketches should be scanned/photographed and included in the web page. The main page should be titled designs.html. Make sure to include all JavaScript and CSS files as well as the HTML files.
 
