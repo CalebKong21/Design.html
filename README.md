@@ -60,8 +60,13 @@ Include data if it is not linked directly in your visualization, or include a RE
 You may submit a link (e.g. to an Observable notebook) as long as it will be live until at least the end of the semester, but I recommend also downloading the tgz file and turning that into Blackboard just in case.
 
 Report (3-4 pages of text, more if screenshots are included):
+
 Describe the dataset.
+
 Describe the questions your visualization is designed to answer.
+
 Describe the visualization you created and how its design evolved. What marks and channels are used? What techniques do you build on?
+
 Describe how the visualization can be used to answer the questions.
+
 Your report may be integrated with an Observable notebook, but could be a separate PDF or Word document. If you turn in a notebook link, I strongly recommend printing the notebook to a PDF and turning that in as well just in case.
