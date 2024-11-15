@@ -54,10 +54,12 @@ Your submission should contain:
 Code:
 
 All the code you developed for the project.
-Include data if it is not linked directly in your visualization, or include a README with instructions on how to obtain it if it is too large (>5MB) to include. Please do not turn in files >20MB to Blackboard.
-You may submit a link (e.g. to an Observable notebook) as long as it will be live until at least the end of the semester, but I recommend also downloading the tgz file and turning that into Blackboard just in case.
-Report (3-4 pages of text, more if screenshots are included):
 
+Include data if it is not linked directly in your visualization, or include a README with instructions on how to obtain it if it is too large (>5MB) to include. Please do not turn in files >20MB to Blackboard.
+
+You may submit a link (e.g. to an Observable notebook) as long as it will be live until at least the end of the semester, but I recommend also downloading the tgz file and turning that into Blackboard just in case.
+
+Report (3-4 pages of text, more if screenshots are included):
 Describe the dataset.
 Describe the questions your visualization is designed to answer.
 Describe the visualization you created and how its design evolved. What marks and channels are used? What techniques do you build on?
