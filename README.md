@@ -41,9 +41,11 @@ A collection of ideas and requirements for your visualization and its interactio
 
 
 Designs
+
 Submit, via Blackboard, your current sketches and code for the project and include at least three different design iterations for your visualization: two good designs and one bad design. If you have updated any of the details based on feedback on the proposal, please indicate the updates and include them as well. At least one of the designs should be prototyped, and the others should either be prototypes or detailed sketches (as with Five Sheets Design). For prototypes, it will be easier if you use version control and create versions often. Consider using GitHub and tagging iterations of the design or creating branches for different ideas. Your submission must include a table of contents that clearly identifies at least three designs you have produced. You may put all the different iterations on one web page with a table of contents section at the beginning (preferred) or on separate web pages with a separate table of contents page. Any sketches should be scanned/photographed and included in the web page. The main page should be titled designs.html. Make sure to include all JavaScript and CSS files as well as the HTML files.
 
 Presentation
+
 You will present your final visualization during the last week of classes. Before then, please submit, via Blackboard, an index.html file that contains or links to all of your project material. If you create your project using Observable, you may just put the link to that notebook in the file. Otherwise, include any other files (JavaScript, data, etc.) you need to run for your presentation in the submitted file as well. Your presentation should describe the dataset and the questions it answers in addition to showing your visualization and describing its features and your design choices. We will plan to run all presentations via my laptop in Chrome to ensure we get through all of the presentations.
 
 Report
